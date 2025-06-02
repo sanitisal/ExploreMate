@@ -2,8 +2,7 @@
 ![ReactJS](https://img.shields.io/badge/Frontend-ReactJS-blue)  
 ![Spring Boot](https://img.shields.io/badge/Backend-Spring%20Boot-green)  
 ![AWS EC2](https://img.shields.io/badge/Deployment-AWS%20EC2-orange)  
-![MySQL](https://img.shields.io/badge/Database-MySQL-yellow)  
-![Docker](https://img.shields.io/badge/Containerization-Docker-blue)  
+![MySQL](https://img.shields.io/badge/Database-MySQL-yellow)    
 
 **ExploreMate** is a cutting-edge travel application designed to elevate your travel experiences by connecting you with professional tour guides and offering personalized, interactive, and seamless travel planning. With ExploreMate, you can explore, plan, and relive your journeys effortlessly.  
 
